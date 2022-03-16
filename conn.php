@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli("sql4.freemysqlhosting.net","sql4479459","l5taK4X6gf","sql4479459");
+$mysqli = new mysqli("mysql-72352-0.cloudclusters.net","root","1W7BQhFE","root");
 
 // Check connection
 if ($mysqli -> connect_errno) {
