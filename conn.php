@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli("mysql-72352-0.cloudclusters.net","root","1W7BQhFE","root");
+$mysqli = new mysqli("mysql-72352-0.cloudclusters.net","root","1W7BQhFE","nightware");
 
 // Check connection
 if ($mysqli -> connect_errno) {
